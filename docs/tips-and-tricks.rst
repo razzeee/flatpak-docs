@@ -107,7 +107,7 @@ First ensure that the config directory exists::
 
 Then open a file in that directory as root::
 
-  $ sudoedit /etc/flatpak/installations.d/extra.conf
+  $ sudo edit /etc/flatpak/installations.d/extra.conf
 
 And write something like this::
 
